@@ -2,18 +2,18 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
     <div class="jumbotron">
-        <h1>This page doesn't exist</h1>
+        <h2>This page doesn't exist</h2>
         <p>No really... it doesn't.</p>
     </div>
-    <div class="well">
-        <h2>Reasons Why</h2>
+    <div class="well col-sm-6 col-lg-5">
+        <legend>Reasons Why</legend>
         <ol>
             <li>I told you so.</li>
             <li>What the developer says goes.</li>
         </ol>
     </div>
-    <div class="well">
-        <h2>What to do now</h2>
+    <div class="well col-sm-6 col-lg-7">
+        <legend>What to do now</legend>
         <ol>
             <li>Forget you saw this.</li>
             <li>What page?</li>
